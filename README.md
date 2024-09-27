@@ -5,4 +5,5 @@ To address the growing demand of smart kitchen appliance we came up with an inno
 - Infrared sensors, thermocouples, and servo motors work together to maintain consistent cooking temperatures.
 - Users can set and lock their desired cooking temperature, with added safety features such as auto shut-off and timer-based cooking.
 - Ergonomic Design: We focused on ease of use, accessibility, and maintenance.
+
 This project combines my passion for Innovation, allowing me to apply and enhance my skills in CAD while providing a practical solution for consumers.
