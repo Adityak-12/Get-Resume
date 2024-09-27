@@ -1,4 +1,5 @@
 ***Design and Implementation of Auto- Adjustable Flame Control System***
+
 To address the growing demand of smart kitchen appliance we came up with an innovative design to enhance precision, efficiency, and safety in gas stoves - The Auto-Adjustable Flame Control System. We designed and simulated the system using SolidWorks and ANSYS Workbench, ensuring robust mechanical design and precise performance analysis. Key features include:
 - Automatically regulates flame intensity using real-time temperature data, minimizing the need for manual intervention.
 - Infrared sensors, thermocouples, and servo motors work together to maintain consistent cooking temperatures.
